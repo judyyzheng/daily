@@ -1,2 +1,3 @@
 # daily
-A daily note taking repo
+
+a daily note-taking space for me
