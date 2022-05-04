@@ -3,10 +3,9 @@ ___
 
 #### Grade breakdown:
 
-  - | Midterm 1: 25% |
-  - | Midterm 2: 25% |
-  - | Final: 45% |
-  - | Piazza participation: 5% |
+  - | Assignment: 20% |
+  - | Quizzes: 45% |
+  - | Final: 35% |
 
 #### Crowdmark Assignment Submission
 #### Contact

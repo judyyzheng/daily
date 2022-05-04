@@ -1,13 +1,16 @@
 #### Pre-notes
 ___
-
+Armin Jamshidpey
+TTh 8:30AM - 9:50AM
+MC 1056
 https://student.cs.uwaterloo.ca/~cs240/w22/
 
 #### Grade breakdown
-- Midterm: 24%
-- Final: 45%
-- 5 Written Assignments: 5% each
-- 4 Programming Assignments: 2% each (Best 3 out of 4)
+
+5 Assignments	35% (7% each)
+2 Programming Questions	6% (3% each)
+Midterm (in-person)	19%
+Final exam (in-person)	40%
 
 #### Marmoset submission
 
